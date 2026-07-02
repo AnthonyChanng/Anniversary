@@ -1,4 +1,3 @@
-import Link from "next/link";
 
 export default function Home() {
   return (
@@ -21,15 +20,14 @@ export default function Home() {
 
       <section className="love-letter" id="letter">
         <h2>Happy 1 year, my love.</h2>
-        <p>
-          Thank you for being my peace, my smile, and the best part of so many
+        <div className="letter-image"></div>
+        <div className="letter-content"> Thank you for being my peace, my smile, and the best part of so many
           ordinary days. I cannot wait to keep making memories with you. Every
            single day with you is a gift, and I am so grateful that you choose 
            to be with me every single one of those days. I love you so much. I know that 
            we will be together for many more years to come, and I cannot wait to see what the 
            future holds for us. You are my everything, and I am so lucky to have you in my life.
-            Happy anniversary, my love. 
-        </p>
+            Happy anniversary, my love. </div>
       </section>
 
       <section className="timeline">

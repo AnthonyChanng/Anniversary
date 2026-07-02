@@ -1,11 +1,5 @@
 import Link from "next/link";
 
-const highlights = [
-  "365 days of choosing each other",
-  "A whole year of little inside jokes",
-  "Still my favorite person to tell everything to",
-];
-
 export default function Home() {
   return (
     <main className="anniversary-page">
@@ -25,21 +19,24 @@ export default function Home() {
         </p>
       </section>
 
-      <section className="anniversary-grid" aria-label="Anniversary highlights">
-        {highlights.map((highlight) => (
-          <article className="memory-card" key={highlight}>
-            <span aria-hidden="true">♥</span>
-            <p>{highlight}</p>
-          </article>
-        ))}
-      </section>
-
       <section className="love-letter" id="letter">
-        <p className="anniversary-kicker">A letter to my favorite person in the world!</p>
         <h2>Happy 1 year, my love.</h2>
         <p>
           Thank you for being my peace, my smile, and the best part of so many
-          ordinary days. I cannot wait to keep making memories with you.
+          ordinary days. I cannot wait to keep making memories with you. Every
+           single day with you is a gift, and I am so grateful that you choose 
+           to be with me every single one of those days. I love you so much. I know that 
+           we will be together for many more years to come, and I cannot wait to see what the 
+           future holds for us. You are my everything, and I am so lucky to have you in my life.
+            Happy anniversary, my love. 
+        </p>
+      </section>
+
+      <section className="timeline">
+        <h2>Our Year Together</h2>
+        <p>
+          From our first date to our first anniversary, every moment has been a
+          treasure. Here's a look back at some of our favorite memories.
         </p>
       </section>
     </main>

@@ -13,7 +13,7 @@
 .anniversary-hero {
   position: relative;
   display: flex;
-  min-height: 68vh;
+  min-height: 100vh;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
@@ -66,14 +66,15 @@
 .love-letter {
   display: grid;
   gap: 2rem;
-  padding: 3rem 0;
+  padding: 3rem 2rem;
   border-bottom: 1px solid rgba(109, 66, 58, 0.16);
   text-align: center;
   align-items: start;
 }
 
 .love-letter h2 {
-  font-size: clamp(2.3rem, 6vw, 4.8rem);
+  font-size: 6rem;
+  font-family: "Dancing Script", cursive;
 }
 
 .letter-image{
@@ -165,6 +166,11 @@
   justify-items: center;
   overflow: hidden;
   text-align: center;
+}
+
+.timeline h2 {
+  font-size: 6rem;
+  font-family: "Dancing Script", cursive;
 }
 
 .timeline-intro {

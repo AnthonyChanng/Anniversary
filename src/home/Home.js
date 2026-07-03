@@ -4,10 +4,10 @@ import Image from "next/image";
 const timelineItems = [
   {
     date: "July 2025",
-    title: "Our first favorite memory",
+    title: "Our first favorite date",
     description:
-      "Write a short note here about what happened, how it felt, or why this moment mattered.",
-    image: "/pictures/76A6684E-C40F-4A86-A3C4-D9342C2DE8A9_1_105_c.jpeg",
+      "This was the start of our beautiful relationship together. It was a great day where we shared our first kiss, and first memories as a couple!",
+    image: "/pictures/D76D258E-0CB2-4166-A7D5-71CF00395534_1_105_c.jpeg",
     imageAlt: "A favorite anniversary memory",
   },
   {

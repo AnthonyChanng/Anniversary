@@ -127,6 +127,13 @@ const timelineItems = [
     image: "/pictures/FA7B87A3-80A5-440F-99B6-E6D7B1EA3AC5_4_5005_c.jpeg",
     imageAlt: "A saved memory from our year together",
   },
+  {
+    date: "July 1st 2026",
+    title: "Our first beach day",
+    description: "The beach with you was a great time. Boogie boarding, walking the boardwalk, and playing volleyball was a great time with you. I love you so much! And you looked so cute in your bikini.",
+    image: "/pictures/B453FBDA-D4A1-4AFE-998F-291E79C88C4C_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
 ];
 
 const galleryImages = [

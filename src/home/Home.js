@@ -32,11 +32,27 @@ const timelineItems = [
   },
   {
     date: "August 9th 2025",
-    title: "Our first NYC trip ",
+    title: "Our first NYC trip",
     description:
       "We explored the big city with our friends. The random Shark pop up was such a funny suprise. It was a great adventure together.",
     image: "/pictures/5CB64443-78BB-4FCB-B74F-E7217E683154_1_105_c.jpeg",
     imageAlt: "A little adventure together",
+  },
+  {
+    date: "September 19th 2025",
+    title: "KBBQ with my family",
+    description:
+      "We had a wonderful time at the barbecue with my family. It was a great opportunity to spend quality time together as you got to know my parents more, and becamse more part of the family.",
+    image: "/pictures/E2182D1E-ECA2-4954-91E8-CA5BDB1202BE_1_105_c.jpeg",
+    imageAlt: "A little adventure together",
+  },
+  {
+    date: "October 31st 2025",
+    title: "Halloween party at Ziggys",
+    description:
+      "We had a great time at the halloween party dressed as ninja swat people. You got drunk and were so cute.",
+    image: "/pictures/D64A95B6-B743-4076-908B-9B75DC23BD93_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
   },
   {
     date: "November 4th 2025",
@@ -47,20 +63,69 @@ const timelineItems = [
     imageAlt: "A saved memory from our year together",
   },
   {
-    date: "Winter 2025",
-    title: "One of our little adventures",
+    date: "November 6th 2025",
+    title: "The Giveon Concert",
+    description: "This was my first concert experience, and I was so glad that I was able to experience it with you! We had a great time with friends, and the vibes were fun.",
+    image: "/pictures/9C399D5E-24DF-40F1-9F1E-A3155FA3529D_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "November 25th 2025",
+    title: "Hanging up the the family Christmas tree",
+    description: "I had an amazing time hanging up the tree with you and your family. It really made me feel like I was apart of the family.",
+    image: "/pictures/CC74C47B-BCB6-45AF-B288-9DE06CC0B792_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "December 14th, 2025",
+    title: "Wicked Broadway Show with my parents",
+    description: "This was an amazing day in the city with you and my parents. We had a great time seeing the show, and it was a great experience to share with you.",
+    image: "/pictures/FB7A6859-D74B-436F-B8DA-BFFA3E7F1AE0_4_5005_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "January 17th 2025",
+    title: "SNOWMAN",
+    description: "This was a great day where you came over to help me shovel the snow, and we made such a cute lil snowman together.",
+    image: "/pictures/AB58EF61-C631-4C4C-A89B-695C87AEBC2E_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "January 30th 2025",
+    title: "A giant group snowboarding trip and getting into gtech",
+    description: "This day was full of fun moments with friends and the icing on the cake was having you with me when I got into my dream school!",
+    image: "/pictures/C69302C6-F76A-4ABD-9777-14E0003D1A51_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "February 14th 2026",
+    title: "Valentine's Day",
+    description: "What a cute first valentine's day together. I had a great time with you and I loved the gifts you gave me. That dinner was also so amazing!",
+    image: "/pictures/74F76CDA-965F-4F3F-AE72-61141AE4644F_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "May 22nd 2026",
+    title: "PROM",
     description:
-      "Replace this with the story of the day, where you went, and what made it special.",
-    image: "/pictures/DE1057CF-6949-4FEA-BFB6-A8D2BD60A9C5_1_105_c.jpeg",
+      "What a beautiful day. Prom with you was one of the greatest times of my life. I had so much fun spending time with you and seeing you in that amazing dress. You looked so pretty.",
+    image: "/pictures/26D066E1-43EE-4AF8-870E-D6D1971223F9_1_105_c.jpeg",
     imageAlt: "A little adventure together",
   },
   {
-    date: "July 2026",
-    title: "One year together",
+    date: "May 29th 2026",
+    title: "Early birthday celebration",
+    description: "We had a cute little date at the Thai restaurant you picked out for us. And then I got to give you a early Christmas gift of a Switch 2!",
+    image: "/pictures/B7F5EA3A-4870-4611-874A-C98A1F037359_1_105_c.jpeg",
+    imageAlt: "A saved memory from our year together",
+  },
+  {
+    date: "June 18th 2026",
+    title: "Our graduation day",
     description:
-      "A place for your anniversary memory, favorite photo, and the words you want to keep.",
-    image: "/pictures/FB7A6859-D74B-436F-B8DA-BFFA3E7F1AE0_4_5005_c.jpeg",
-    imageAlt: "Our first anniversary memory",
+      "What a momentous day! We both celebrated our graduation from high school together. From here, we move onto bigger and better things. I look forward to spending every day with you as we continue to grow together.",
+    image: "/pictures/FA7B87A3-80A5-440F-99B6-E6D7B1EA3AC5_4_5005_c.jpeg",
+    imageAlt: "A saved memory from our year together",
   },
 ];
 

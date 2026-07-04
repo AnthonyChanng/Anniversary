@@ -3,19 +3,43 @@ import Image from "next/image";
 
 const timelineItems = [
   {
-    date: "July 2025",
-    title: "Our first favorite date",
+    date: "July 13th 2025",
+    title: "Our first date",
     description:
       "This was the start of our beautiful relationship together. It was a great day where we shared our first kiss, and first memories as a couple!",
     image: "/pictures/D76D258E-0CB2-4166-A7D5-71CF00395534_1_105_c.jpeg",
     imageAlt: "A favorite anniversary memory",
   },
   {
-    date: "Fall 2025",
-    title: "A day worth saving",
+    date: "July 21th 2025",
+    title: "Our first gym date",
     description:
-      "Add the sweet, funny, or tiny details you want to remember when you look back.",
-    image: "/pictures/0E7D6F89-5BE3-47E6-B44C-F0994EE4BB98_1_105_c.jpeg",
+      "One of our first of many gym dates together. We worked out hard and gained big muscles.",
+    image: "/pictures/D790B94E-AA94-462F-8B6F-5287924E4EEF_1_105_c.jpeg",
+    imageAlt: "A little adventure together",
+  },
+  {
+    date: "August 1st 2025",
+    title: "Our first proper, fancy date",
+    description:
+      "We went to a nice italian restaurant and had a great time. What was funny was that we ordered the same entree which was silly billy.",
+    image: "/pictures/95D88BC6-C7AC-4FB7-8FD5-62EA218D034F_1_105_c.jpeg",
+    imageAlt: "A little adventure together",
+  },
+  {
+    date: "August 9th 2025",
+    title: "Our first NYC trip ",
+    description:
+      "We explored the big city with our friends. The random Shark pop up was such a funny suprise. It was a great adventure together.",
+    image: "/pictures/5CB64443-78BB-4FCB-B74F-E7217E683154_1_105_c.jpeg",
+    imageAlt: "A little adventure together",
+  },
+  {
+    date: "November 4th 2025",
+    title: "My first birthday with you",
+    description:
+      "This was my first birthday celebrated with you, and you made it amazing. The little scavanger hunt you set up for me was so thoughtful, and the gifts you gave me were perfect.",
+    image: "/pictures/FB0F8F45-A90A-43A6-8D43-3F83C3B18590_1_105_c.jpeg",
     imageAlt: "A saved memory from our year together",
   },
   {
